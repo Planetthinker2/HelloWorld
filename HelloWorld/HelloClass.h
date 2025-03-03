@@ -6,7 +6,7 @@ class HelloWorld {
 
 public:
 	std::string sayHello() const {
-		return "Hello World!";
+		return "Hello World!..";
 
 	}
 };
